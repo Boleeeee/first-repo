@@ -1,3 +1,3 @@
 # First
 
-Vježba.
+Vježba!
